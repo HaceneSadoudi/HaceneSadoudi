@@ -3,22 +3,6 @@
 <p> My name is Sadoudi and i'm a Full Stack Developer.</p>
 
 
-
-## Statistics
-
-
-<div class="stats" align="center">
-  
-  ![Sadoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hacenesadoudi&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=hacenesadoudi&count_private=true&theme=algolia&border_radius=20)
-
-  <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacenesadoudi&show_icons=true&theme=algolia&border_radius=20) -->
-
-  <!-- compact programming languages layout -->
-  <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacenesadoudi&layout=compact&show_icons=true&theme=algolia&border_radius=20) -->
-</div>
-
 ## I code with
 
 
@@ -106,3 +90,18 @@
   </a>
 </div>
 
+
+## Statistics
+
+
+<div class="stats" align="center">
+  
+  ![Sadoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hacenesadoudi&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=hacenesadoudi&count_private=true&theme=algolia&border_radius=20)
+
+  <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacenesadoudi&show_icons=true&theme=algolia&border_radius=20) -->
+
+  <!-- compact programming languages layout -->
+  <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacenesadoudi&layout=compact&show_icons=true&theme=algolia&border_radius=20) -->
+</div>
