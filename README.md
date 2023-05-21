@@ -5,12 +5,21 @@
 
 ## I code with
 
+<div class="stats" align="center">
+  ![Sadoudi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hacenesadoudi&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
+  
 
+  ![GitHub Streak](https://streak-stats.demolab.com?user=hacenesadoudi&count_private=true&theme=algolia&border_radius=20)
 
+  <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacenesadoudi&show_icons=true&theme=algolia&border_radius=20) -->
+
+  <!-- compact programming languages layout -->
+  <!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hacenesadoudi&layout=compact&show_icons=true&theme=algolia&border_radius=20) -->
+</div>
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img  title="Tailwind Css" alt="Tailwind Css" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" >
+    <img  title="Tailwind Css" alt="Tailwind Css" height="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img  title="Nest Js" alt="Nest Js" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
@@ -63,9 +72,6 @@
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
       <img  alt="firebase" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
   </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-      <img  alt="GoogleCloud" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/> 
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   </a>
@@ -87,9 +93,6 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   </a>
-  <a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-      <img  alt="Jupyter" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
   </a>
@@ -97,3 +100,4 @@
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
 </div>
+
